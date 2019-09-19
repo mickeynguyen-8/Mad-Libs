@@ -1,0 +1,34 @@
+body{
+    width: 900px;
+    padding: 100px;
+    margin: 300px auto;
+    border: 5px solid black;
+    background-color: white;
+    font-family: 'Merriweather', serif;
+    font-size: 25px;
+}
+html{
+    background-color: #6a5acd;
+}
+h1{
+    text-shadow: 5px 10px red; 
+    letter-spacing: 1px;
+    font-size: 50px;
+}
+#click{
+    padding: 10px;
+    font-size: 20px;
+    background-color: turquoise;
+    border: 5px dotted black;
+}
+.space{
+    line-height: 70px;
+}
+input{
+    padding: 5px 20px;
+    font-size: 25px;
+}
+#picture{
+    width: 400px;
+    margin: 0 auto;
+}
